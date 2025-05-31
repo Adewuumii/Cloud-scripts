@@ -1,4 +1,4 @@
-# cloud-scripts
+# cloud_scripts
 
 This repository contains a curated collection of Linux shell scripts designed to automate routine cloud infrastructure and system administration tasks.
 
@@ -39,8 +39,8 @@ These scripts are particularly useful for beginners in:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/cloud-scripts.git
-cd cloud-scripts
+git clone https://github.com/yourusername/cloud_scripts.git
+cd cloud_scripts
 ```
 
 2. **Make scripts executable**:
@@ -50,7 +50,7 @@ find . -name "*.sh" -exec chmod u+x {} \;
 
 3. **Navigate to the desired script category**:
 ```bash
-cd update-script/
+cd update_script/
 ```
 
 4. **Read the README and run the script**:
