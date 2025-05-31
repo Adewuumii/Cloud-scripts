@@ -73,6 +73,6 @@ Contributions are totally welcome. Please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Adewuumii/cloud_scripts/blob/main/LICENSE) file for details.
 
 **Happy Automating!** 🚀

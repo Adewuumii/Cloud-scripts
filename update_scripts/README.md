@@ -127,9 +127,9 @@ your_username ALL=(ALL) NOPASSWD: /usr/bin/apt update, /usr/bin/apt upgrade -y, 
 
 ## Contributing
 
-Contributions are welcome! See [README.md](README.md) for the proper guidelines on how to contribute. 
+Contributions are welcome! See [README.md](https://github.com/Adewuumii/cloud_scripts/blob/main/README.md) for the proper guidelines on how to contribute. 
 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Adewuumii/cloud_scripts/blob/main/LICENSE) file for full details.
